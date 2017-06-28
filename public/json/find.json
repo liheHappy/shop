@@ -1,0 +1,261 @@
+{
+    "result": [
+        {
+            "sc_id": "29",
+            "sc_name": "热卖微店",
+            "sc_images": "http://pic.fenhongshop.com/microshop/20160718/578c4dd7ecc0a.png",
+            "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4cebe1e00.jpg",
+            "sc_sort": "1",
+            "sc_parent_id": "0",
+            "if_show": "1",
+            "subclass": [
+                {
+                    "sc_id": "31",
+                    "sc_name": "中国馆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160712/5784b34c04275.jpg",
+                    "sc_sort": "1",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "42",
+                    "sc_name": "韩国馆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160712/5784b35624bc7.jpg",
+                    "sc_sort": "2",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "53",
+                    "sc_name": "日本馆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160712/5784b35f5a2a8.jpg",
+                    "sc_sort": "3",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "58",
+                    "sc_name": "欧美馆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160712/5784b36ee346e.jpg",
+                    "sc_sort": "5",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "59",
+                    "sc_name": "台湾馆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160721/5790447873956.jpg",
+                    "sc_sort": "6",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "55",
+                    "sc_name": "全球购自营",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160712/5784b3885e224.jpg",
+                    "sc_sort": "7",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "30",
+                    "sc_name": "品牌馆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4d3119ebe.jpg",
+                    "sc_sort": "8",
+                    "sc_parent_id": "29",
+                    "if_show": "1"
+                }
+            ]
+        },
+        {
+            "sc_id": "1",
+            "sc_name": "食品酒水",
+            "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4cf75a435.jpg",
+            "sc_sort": "255",
+            "sc_parent_id": "0",
+            "if_show": "1",
+            "subclass": [
+                {
+                    "sc_id": "2",
+                    "sc_name": "进口食品",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4d4ef14c7.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "1",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "4",
+                    "sc_name": "品牌茗茶",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c592d15a08.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "1",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "24",
+                    "sc_name": "中外名酒",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4d72d4fd8.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "1",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "45",
+                    "sc_name": "地方特产",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fa2a4ee6b.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "1",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "46",
+                    "sc_name": "休闲食品",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fa46bd8c0.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "1",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "47",
+                    "sc_name": "饮料冲调",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fa8290a82.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "1",
+                    "if_show": "1"
+                }
+            ]
+        },
+        {
+            "sc_id": "5",
+            "sc_name": "美容个护",
+            "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4d013c153.jpg",
+            "sc_sort": "255",
+            "sc_parent_id": "0",
+            "if_show": "1",
+            "subclass": [
+                {
+                    "sc_id": "6",
+                    "sc_name": "洗发护发",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fabeb8995.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "5",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "34",
+                    "sc_name": "面部护肤",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4db87cc32.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "5",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "35",
+                    "sc_name": "身体洗护",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20160229/56d39ecdd2968.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "5",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "37",
+                    "sc_name": "香水彩妆",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4dd19ef2a.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "5",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "48",
+                    "sc_name": "个人护理",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fb2d9bb37.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "5",
+                    "if_show": "1"
+                }
+            ]
+        },
+        {
+            "sc_id": "12",
+            "sc_name": "母婴用品",
+            "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4d09e44cf.jpg",
+            "sc_sort": "255",
+            "sc_parent_id": "0",
+            "if_show": "1",
+            "subclass": [
+                {
+                    "sc_id": "49",
+                    "sc_name": "妈妈专区",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fb8a13447.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "12",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "50",
+                    "sc_name": "童装童具",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fbb359a4c.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "12",
+                    "if_show": "1"
+                }
+            ]
+        },
+        {
+            "sc_id": "16",
+            "sc_name": "箱包配饰",
+            "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fbda63714.jpg",
+            "sc_sort": "255",
+            "sc_parent_id": "0",
+            "if_show": "1",
+            "subclass": [
+                {
+                    "sc_id": "19",
+                    "sc_name": "创意配饰",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4ed5b9fd0.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "16",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "51",
+                    "sc_name": "流行鞋子",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151127/5657fe02b54bf.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "16",
+                    "if_show": "1"
+                }
+            ]
+        },
+        {
+            "sc_id": "36",
+            "sc_name": "营养保健",
+            "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4d1bced46.jpg",
+            "sc_sort": "255",
+            "sc_parent_id": "0",
+            "if_show": "1",
+            "subclass": [
+                {
+                    "sc_id": "39",
+                    "sc_name": "养生保健",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4eeab485f.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "36",
+                    "if_show": "1"
+                },
+                {
+                    "sc_id": "40",
+                    "sc_name": "五谷杂粮",
+                    "sc_pic": "http://pic.fenhongshop.com/microshop/shop_class/20151106/563c4ef4555ab.jpg",
+                    "sc_sort": "255",
+                    "sc_parent_id": "36",
+                    "if_show": "1"
+                }
+            ]
+        }
+    ],
+    "error": "0",
+    "msg": "",
+    "total": 0,
+    "hasmore": false
+}

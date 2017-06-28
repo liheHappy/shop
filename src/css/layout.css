@@ -1,0 +1,58 @@
+
+#mainTab .ant-tabs-bar{
+	position: fixed;
+	bottom:0;
+	margin: 0;
+	border: none;
+	width: 100%;
+	background: #fff;
+	border-top: 1px solid #ccc;
+}
+#mainTab .ant-tabs-nav .ant-tabs-tab{
+	padding: 0;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	color: #999;
+}
+#mainTab .ant-tabs-nav .ant-tabs-tab a{
+	color: #999;
+}
+#mainTab .ant-tabs-nav .ant-tabs-tab span{
+	text-align: center;
+	font-size: 0.16rem;
+}
+#mainTab .ant-tabs-nav .ant-tabs-tab .anticon{
+	display: block;
+	margin: 0;
+	width: 100%;
+	height: 0.45rem;
+}
+#mainTab .ant-tabs-nav-container{
+	width: 100%;
+}
+#mainTab .ant-tabs-nav.ant-tabs-nav-animated{
+	height: 0.98rem;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#mainTab .ant-tabs-ink-bar{
+	border: none;
+	background: none;
+}
+#mainTab .ant-tabs-nav .ant-tabs-tab:hover a{
+	color: red;
+}
+#mainTab .ant-tabs-nav .ant-tabs-tab-active a{
+	color: red;
+}
+#mainTab .anticon:before{
+	font-size: 0.38rem;
+}
+
+#layoutChild{
+	height: 100vh;
+	overflow:auto; 
+}

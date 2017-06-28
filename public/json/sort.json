@@ -1,0 +1,116 @@
+{
+    "result": [
+        [
+            {
+                "gc_id": "1421",
+                "gc_name": "进口频道",
+                "gc_keywords": "进口食品,进口化妆品,进口家电,进口母婴,进口保健品",
+                "gc_sort": "1",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572313f19d7a6.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "593",
+                "gc_name": "食品酒水",
+                "gc_keywords": "地方特产,休闲食品,名酒",
+                "gc_sort": "2",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/5723141657fbc.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "470",
+                "gc_name": "化妆护理",
+                "gc_keywords": "男士,女士,化妆品,护肤品,护理用品",
+                "gc_sort": "3",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/5723142dc4023.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "825",
+                "gc_name": "母婴玩具",
+                "gc_keywords": "母婴用品,尿裤尿湿,童车童床,孕妇内衣",
+                "gc_sort": "4",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572314452bd81.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "3",
+                "gc_name": "家居家电",
+                "gc_keywords": "运动鞋包,运动服饰,体育用品,户外鞋服,户外装备",
+                "gc_sort": "5",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572314776a937.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "888",
+                "gc_name": "营养保健",
+                "gc_keywords": "营养健康,营养成本,传统滋补",
+                "gc_sort": "8",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572314942230f.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "256",
+                "gc_name": "电脑/数码/手机",
+                "gc_keywords": "电脑产品,电脑配件,数码配件,数码手机,手机配件",
+                "gc_sort": "12",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572314a36e0fc.png",
+                "gc_area": "0"
+            },
+            {
+                "gc_id": "1",
+                "gc_name": "服装箱包配饰",
+                "gc_keywords": "时尚男装,时尚女装,时尚女鞋,流行男鞋,服装配饰",
+                "gc_sort": "13",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572314d74eb02.png",
+                "gc_area": "0"
+            }
+        ],
+        [
+            {
+                "gc_id": "1467",
+                "gc_name": "美容个护",
+                "gc_keywords": "面部护肤,护发美体,女性护理,香水彩妆,口腔护理,男士洗护",
+                "gc_sort": "2",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572315012e206.png",
+                "gc_area": "1"
+            },
+            {
+                "gc_id": "1458",
+                "gc_name": "母婴用品",
+                "gc_keywords": "奶粉,尿裤湿巾,洗护清洁,母婴营养保健,孕产妇用品,宝贝用具,护理防护,哺育喂养",
+                "gc_sort": "3",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/572315122bc61.png",
+                "gc_area": "1"
+            },
+            {
+                "gc_id": "1730",
+                "gc_name": "营养保健",
+                "gc_keywords": "营养健康,营养成分,滋补养生,成人用品,保健器械,护理护具",
+                "gc_sort": "4",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/57231521956d9.png",
+                "gc_area": "1"
+            },
+            {
+                "gc_id": "1846",
+                "gc_name": "箱包服饰",
+                "gc_keywords": "潮流女包,双肩包,手拿包,手提包",
+                "gc_sort": "5",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/5723152fed2de.png",
+                "gc_area": "1"
+            },
+            {
+                "gc_id": "1473",
+                "gc_name": "家居日用",
+                "gc_keywords": "厨房电器,个人护理电器,生活电器,生活用品,家纺/床品,家装软饰,厨房用具",
+                "gc_sort": "6",
+                "gc_img": "http://pic.fenhongshop.com/goods_class/20160429/57231542ac0ec.png",
+                "gc_area": "1"
+            }
+        ]
+    ],
+    "error": "0",
+    "msg": "",
+    "total": 0,
+    "hasmore": false
+}

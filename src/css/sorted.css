@@ -1,0 +1,66 @@
+#sorted{
+	margin-bottom: 1.2rem;
+	overflow: hidden;
+}
+#sorted header{
+	height: 0.88rem;
+	color: #333;
+	background: #fff;
+	line-height: 0.88rem;
+	border-bottom: 1px solid #ccc;
+}
+#sorted .ant-row{
+	height: 100%;
+	font-size: 0.32rem;
+}
+#sorted .ant-col-4.ant-col-pull-20{
+	display: flex;
+	height: 100%;
+	color: #333333;
+	justify-content: center;
+	align-items: center;
+}
+#sorted .ant-col-4.ant-col-pull-20 a .anticon{
+	color: #333333;
+}
+#sorted .list h3 img{
+	width: 100%;
+}
+#sorted .list ul{
+	margin-bottom: 0.25rem;
+	padding-left: 0.1rem;
+	padding-top: 0.1rem;
+	width: 100%;
+	overflow: hidden;
+}
+#sorted .list ul h1{
+	font-size: 1em;
+	margin: 0;
+    color: #333;
+    padding: 15px 0 10px 10px;
+    font-weight: normal;
+}
+#sorted .list ul li{
+	float: left;
+	background: #FFFFFF;
+	text-align: center;
+	width: 1.43rem;
+	height: 1.9rem;
+	margin-left: 0.1rem;
+	margin-top: 0.1rem;
+}
+#sorted .list img{
+	width: 100%;
+}
+#sorted .list ul li img{
+	width: 1rem;
+	margin: 20px 15px 0 10px;
+}
+#sorted .list ul li span{
+	display: block;
+	color: #333333;
+	font-size: 0.28rem;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}

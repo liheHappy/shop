@@ -1,0 +1,214 @@
+#homemain img{
+	display: block;
+}
+#homemain .actionlist ul{
+	background-color: #fff;
+	width: 100%;
+	height: 12vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-bottom: 0.2rem;
+}
+#homemain .actionlist ul li{
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+	width: 20%;
+	flex-direction: column;
+	align-items: center;
+
+}
+#homemain .actionlist ul span{
+	display: block;
+	font-size: 0.2rem;
+}
+#homemain .actionlist ul i{
+	font-size: 0.4rem;
+}
+#homemain .slider-list,#homemain .slider-list li{
+	width: 100%!important;
+}
+#homemain .slider-list img{
+	width: 100%;
+	height: 100%;
+}
+
+/* 轮播图 */
+#homemain .slide .am-wingblank.am-wingblank-lg,#homemain .am-wingblank{
+	margin: 0;
+	padding: 0;
+}
+#homemain .slide .slider-decorator-0{
+	bottom: 0.3rem!important;
+}
+
+/* 列表一样式 */
+#homemain .listone{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0.2rem;
+}
+#homemain .listone p{
+	width: 60%;
+	height: 35vh;
+}
+#homemain .listone p img{
+	width: 100%;
+	height: 100%;
+}
+#homemain .listone ul{
+	width: 39%;
+	height:35vh;
+}
+#homemain .listone ul li img,#homemain .listone ul li{
+	height: 17.4vh;
+	width: 100%;
+	margin-bottom: 0.1vh;
+}
+
+/*列表二样式*/
+#homemain .listtwo ul,#homemain .listfive ul{
+	width: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background: #fff;
+	margin-bottom: 0.2rem;
+}
+#homemain .listtwo ul li,#homemain .listfive ul li{
+	width: 47%;
+	height: 14vh;
+	margin: 0.2rem 0;
+}
+#homemain .listtwo ul li img,#homemain .listfive ul li img{
+	width: 100%;
+	height: 100%;
+}
+#homemain .listtwo ul li:nth-child(3),#homemain .listtwo ul li:nth-child(4),#homemain .listfive ul li:nth-child(3),#homemain .listfive ul li:nth-child(4){
+	margin-top: 0;
+}
+
+/*列表三样式*/
+#homemain .listthree{
+	background: #fff;
+}
+#homemain .listthree ul{
+	width: 600%;
+	overflow-x: auto;
+}
+#homemain .listthree img{
+	width: 100%;
+	height: 30vh;
+}
+#homemain .listthree .list li{
+	width: 2.5rem;
+	background: #fff;
+	float: left;
+	height: 30vh;
+}
+#homemain .listthree .list img{
+	width: 80%;
+	margin: 0.2rem auto;
+	height: 50%;
+}
+#homemain .listthree .list p{
+	padding: 0.1rem;
+	font-size:0.2rem;
+	text-align: center;
+	width: 100%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+#homemain .listthree .list p:nth-of-type(2){
+	display: flex;
+	justify-content: space-around;
+}
+#homemain .listthree .list p span:nth-child(1){
+	font-size: 0.24rem;
+	color: deeppink;
+}
+#homemain .listthree .list p span:nth-child(2){
+	text-decoration: line-through;
+}
+#homemain .listthree h3,#homemain .listfive h3{
+	color: deeppink;
+	text-align: center;
+	border-bottom: 0.02rem solid deeppink;
+	padding-bottom:0.1rem ;
+	padding-top: 0.2rem;
+	margin: 0.2rem auto;
+	width: 24%;
+	font-weight: normal;
+}
+
+/*列表四*/
+#homemain .listfour{
+	background: #fff;
+}
+#homemain .listfour ul li{
+	min-height: 80vh;
+	margin: 0.1rem 0.1rem;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+}
+#homemain .listfour ul li:last-child{
+	border: none;
+}
+#homemain .listfour ul li img{
+	width: 100%;
+	height: 45vh;
+	
+}
+#homemain .listfour p{
+	height: 0.8rem;
+}
+#homemain .listfour p:nth-of-type(1){
+	position: relative;
+	padding-top: 0.1rem;
+}
+#homemain .listfour ul li p img{
+	height: 0.8rem;
+	width: 1.2rem;
+	display: inline-block;
+}
+#homemain .listfour ul li p span{
+	position: absolute;
+	top: 0.2rem;
+	left: 1.5rem;
+	color: #000;
+}
+#homemain .listfour ul li button{
+	padding: 0.2rem;
+	background: red;
+	color: #fff;
+	border: none;
+	display: block;
+	border-radius: 5px;
+	margin-bottom: 0.2rem;
+}
+#homemain .listfour p:nth-of-type(2){
+	font-size: 0.28rem;
+	height: auto;
+	margin: 0.3rem 0 0.1rem 0;
+}
+#homemain .listfour p:nth-of-type(3){
+	font-size: 0.2rem;
+	height: auto;
+}
+#homemain .listfour h3{
+	color: deeppink;
+	text-align: center;
+	border-bottom: 0.02rem solid deeppink;
+	padding-bottom:0.1rem ;
+	padding-top: 0.2rem;
+	margin: 0.2rem auto;
+	width: 24%;
+	font-weight: normal;
+}
+/*列表五*/
+#homemain .listfive{
+	background: #fff;
+}

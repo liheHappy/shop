@@ -1,0 +1,72 @@
+#home{
+	margin-bottom: 0.98rem;
+}
+/* 头部样式 */
+#home header{
+	height: 0.84rem;
+}
+#home .ant-input.ant-input.ant-select-search__field{
+	padding-left: 0.8rem;
+	background:#f8f8f8;
+}
+#home .ant-input-affix-wrapper .ant-input-suffix{
+	left: 7px;
+	right: 0;
+}
+#home .ant-row{
+	height: 0.84rem;
+	background-color: #fff;
+}
+#home .ant-col-4.ant-col-pull-20{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+#home .anticon.anticon-bars{
+	font-size: 0.6rem;
+}
+#home .ant-input-affix-wrapper{
+	height: 0.6rem;
+	border: none;
+}
+#home .ant-tabs-bar{
+	margin: 0;
+}
+/* 选项卡样式 */
+#home .ant-tabs-nav .ant-tabs-tab{
+	margin: 0; 
+	padding: 8px 10px;
+}
+#home .ant-tabs-nav .ant-tabs-tab-active{
+	color: red;
+}
+#home .ant-tabs-nav .ant-tabs-tab:hover{
+	color: red;
+}
+#home .ant-tabs-ink-bar{
+	background-color: red;
+	width: 48px;
+	height: 3px;
+}
+#home .ant-tabs-bar{
+	border: none;
+}
+#home .ant-tabs-bar,#home .ant-tabs-nav-container-scrolling,#home .ant-tabs-nav-wrap,#home .ant-tabs-nav-scroll,#home .ant-tabs-nav{
+	height: 0.92rem;
+}
+#home .ant-tabs-bar{
+	background-color: #4f4f4f;
+	color: #fff;
+	overflow: hidden;
+}
+#home .ant-tabs-tab-next-icon,#home .ant-tabs-tab-prev{
+	color: #ccc;
+	margin-top: 0.3rem;
+}
+#home .ant-tabs.ant-tabs-top.ant-tabs-line{
+	background-color:#f8f8f8; 
+}
+#home .ant-tabs-nav-wrap{
+	line-height: 0.72rem;
+}

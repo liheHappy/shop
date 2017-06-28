@@ -1,0 +1,100 @@
+#allgoods .swipe img{
+	width: 100%;
+	height: 35vh;
+	display: block;
+}
+#allgoods .listtwo ul{
+	width: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background: #fff;
+	padding-bottom: 0.2rem;
+}
+#allgoods .listtwo ul li{
+	width: 47%;
+	height: 14vh;
+	margin: 0.2rem 0 0 0;
+}
+#allgoods .listtwo ul li img{
+	width: 100%;
+	height: 100%;
+}
+/*列表一样式*/
+#allgoods .listone{
+	background: #fff;
+}
+#allgoods .listone img{
+	width: 100%;
+	height: 30vh;
+}
+#allgoods .listone h3{
+	color: deeppink;
+	text-align: center;
+	border-bottom: 0.02rem solid deeppink;
+	padding-bottom:0.1rem ;
+	padding-top: 0.2rem;
+	margin: 0.2rem auto;
+	width: 24%;
+	font-weight: normal;
+}
+
+/*列表四*/
+#allgoods .listthree{
+	background: #fff;
+}
+#allgoods .listthree ul li{
+	background: #F8F8F8;
+}
+#allgoods .listthree ul img{
+	width: 100%;
+	height: 45vh;
+}
+#allgoods .listthree h3{
+	color: deeppink;
+	text-align: center;
+	border-bottom: 0.02rem solid deeppink;
+	padding-bottom:0.1rem ;
+	padding-top: 0.2rem;
+	margin: 0.2rem auto;
+	width: 24%;
+	font-weight: normal;
+}
+#allgoods .listthree ol{
+	width: 100%;
+	overflow: auto;
+	background: #fff;
+	display: flex;
+	flex-wrap: wrap;
+}
+#allgoods .listthree ol li{
+	flex-grow: 1;
+	width: 49%;
+	border-bottom: 1px solid #ccc;
+	height: 45vh;
+	padding: 0 0.1rem;
+}
+#allgoods .listthree ol li:nth-child(2n+1){
+	border-right: 1px solid #ccc;
+}
+#allgoods .listthree ol li img{
+	width: 100%;
+	height: 25vh;
+}
+#allgoods .listthree ol li p{
+	height: 0.8rem;
+	color: #000;
+	font-size: 0.2rem;
+	margin-bottom: 0.3rem;
+	overflow: hidden;
+}
+#allgoods .listthree ol li span{
+	display: block;
+	font-size: 0.24rem;
+}
+#allgoods .listthree ol li span:nth-of-type(2){
+	color: deeppink;
+	font-size: 0.3rem;
+}
+
